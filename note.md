@@ -17,3 +17,13 @@ React is single page application (spa)
 
 when using react-router use <Link> instead of "a"
 <Link> = got to another page without reloading
+
+            Backend
+    server is a computer or program that provide resource or service to othe computers over network
+
+    type of server 
+        - web server
+        -Database server
+        -File server
+
+    Backend is the part of an application thar runs on the server and handles logic, database, authentication and data processing
