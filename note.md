@@ -69,3 +69,8 @@ when using react-router use <Link> instead of "a"
     .then() is method used to handle the result of a promise.
 
     JSON is string representaion of an object or array
+
+    axios is a popular javaScirpt library for making https requests but with more features and easier syntax
+
+    axios = cleanr way to make request to the backend
+
