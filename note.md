@@ -74,3 +74,6 @@ when using react-router use <Link> instead of "a"
 
     axios = cleanr way to make request to the backend
 
+    dependency array = let us control when useEffect run
+    [] = only run once
+
