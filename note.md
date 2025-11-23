@@ -77,3 +77,12 @@ when using react-router use <Link> instead of "a"
     dependency array = let us control when useEffect run
     [] = only run once
 
+    library is collection of functions
+    package something downloaded from npm
+    A file or library you import
+
+    props is short for property is data you pass from parent component to a child component
+
+    parent = sends data
+    child recieves it and use it
+
