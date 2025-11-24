@@ -86,3 +86,4 @@ when using react-router use <Link> instead of "a"
     parent = sends data
     child recieves it and use it
 
+  Query parameter = lets us add additional info to our request
