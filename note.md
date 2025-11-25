@@ -87,3 +87,6 @@ when using react-router use <Link> instead of "a"
     child recieves it and use it
 
   Query parameter = lets us add additional info to our request
+
+  Backend = manage the data
+  Frontend = present the data
