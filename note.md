@@ -90,3 +90,9 @@ when using react-router use <Link> instead of "a"
 
   Backend = manage the data
   Frontend = present the data
+
+  fetch() is a built-in browswer API.
+
+  You already have it - no installation needed;
+
+  Async Await = lets us write asynchronous code like normal code 
