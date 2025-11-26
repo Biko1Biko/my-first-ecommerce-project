@@ -1,8 +1,8 @@
 import axios from "axios";
 import dayjs from "dayjs";
-import {formatMoney} from "../utils/money"
+import {formatMoney} from "../../utils/money"
 import {useState, useEffect, Fragment} from 'react';
-import { Header } from "../component/Header.jsx";
+import { Header } from "../../component/Header.jsx";
 import "./orders.css";
 
 export function OrdersPage({cart}) {
@@ -32,7 +32,7 @@ export function OrdersPage({cart}) {
             <div class="order-header-left-section">
               <div class="order-date">
                 <div class="order-header-label">Order Placed:</div>
-                <div>{dayjs(order.orderTimeMs).format('MMMM D')}</div>
+                <div>{dayjs(order.orderTimeMs).format('MMMM D') }</div>
               </div>
               <div class="order-total">
                 <div class="order-header-label">Total:</div>
